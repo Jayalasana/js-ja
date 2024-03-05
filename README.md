@@ -1,2 +1,2 @@
-# js-ja
+# js-jm
 A code repo for javascript
